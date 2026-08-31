@@ -1,0 +1,180 @@
+Q001 B | ความหมายของ Self-Management
+Q002 B | ความหมายของ Self-Management
+Q003 D | ความหมายของ Self-Management
+Q004 B | Self-Monitoring
+Q005 D | Self-Monitoring
+Q006 D | Self-Monitoring
+Q007 C | Self-Evaluation
+Q008 B | Self-Evaluation
+Q009 D | Self-Evaluation
+Q010 B | Self-Reinforcement
+Q011 D | Self-Reinforcement
+Q012 D | Self-Reinforcement
+Q013 D | Core Self-Management Skills
+Q014 A | Core Self-Management Skills
+Q015 A | Core Self-Management Skills
+Q016 B | สามงานหลักของการจัดการตนเอง
+Q017 D | สามงานหลักของการจัดการตนเอง
+Q018 B | สามงานหลักของการจัดการตนเอง
+Q019 C | แนวทาง 5A
+Q020 C | แนวทาง 5A
+Q021 D | แนวทาง 5A
+Q022 C | Teach-back & Health Literacy
+Q023 C | Teach-back & Health Literacy
+Q024 C | Teach-back & Health Literacy
+Q025 C | เป้าหมายการดูแล CKD ก่อน RRT
+Q026 D | เป้าหมายการดูแล CKD ก่อน RRT
+Q027 A | เป้าหมายการดูแล CKD ก่อน RRT
+Q028 C | การคัดกรองและยืนยัน CKD
+Q029 B | การคัดกรองและยืนยัน CKD
+Q030 D | การคัดกรองและยืนยัน CKD
+Q031 B | โภชนบำบัดและพลังงาน
+Q032 B | โภชนบำบัดและพลังงาน
+Q033 C | โภชนบำบัดและพลังงาน
+Q034 D | การจำกัดโซเดียม
+Q035 B | การจำกัดโซเดียม
+Q036 B | การจำกัดโซเดียม
+Q037 D | การติดตามสารน้ำด้วยน้ำหนัก
+Q038 C | การติดตามสารน้ำด้วยน้ำหนัก
+Q039 B | การติดตามสารน้ำด้วยน้ำหนัก
+Q040 A | การประเมินโพแทสเซียม
+Q041 C | การประเมินโพแทสเซียม
+Q042 D | การประเมินโพแทสเซียม
+Q043 B | Medication Safety in CKD
+Q044 A | Medication Safety in CKD
+Q045 A | Medication Safety in CKD
+Q046 A | การเตรียมความพร้อมสู่ RRT
+Q047 D | การเตรียมความพร้อมสู่ RRT
+Q048 C | การเตรียมความพร้อมสู่ RRT
+Q049 C | Primary Nursing & Continuity
+Q050 B | Primary Nursing & Continuity
+Q051 B | Primary Nursing & Continuity
+Q052 B | เป้าหมายของ Primary Nurse
+Q053 C | เป้าหมายของ Primary Nurse
+Q054 A | เป้าหมายของ Primary Nurse
+Q055 B | Assignment of Care
+Q056 C | Assignment of Care
+Q057 D | Assignment of Care
+Q058 A | Comprehensive Assessment
+Q059 A | Comprehensive Assessment
+Q060 C | Comprehensive Assessment
+Q061 C | Nursing Care Plan
+Q062 D | Nursing Care Plan
+Q063 B | Nursing Care Plan
+Q064 B | Patient Journey: Pre–Intra–Post Dialysis
+Q065 B | Patient Journey: Pre–Intra–Post Dialysis
+Q066 B | Patient Journey: Pre–Intra–Post Dialysis
+Q067 C | Quality Assurance Shield
+Q068 B | Quality Assurance Shield
+Q069 A | Quality Assurance Shield
+Q070 D | Case Manager Focus
+Q071 C | Case Manager Focus
+Q072 D | Case Manager Focus
+Q073 B | 5-in-1 Case Manager Roles
+Q074 D | 5-in-1 Case Manager Roles
+Q075 C | 5-in-1 Case Manager Roles
+Q076 D | Primary Nurse vs Case Manager
+Q077 C | Primary Nurse vs Case Manager
+Q078 B | Primary Nurse vs Case Manager
+Q079 D | Risk-Based Case Assignment
+Q080 B | Risk-Based Case Assignment
+Q081 A | Risk-Based Case Assignment
+Q082 D | Case Manager Dashboard
+Q083 D | Case Manager Dashboard
+Q084 D | Case Manager Dashboard
+Q085 D | Case Management Process 5 Steps
+Q086 A | Case Management Process 5 Steps
+Q087 A | Case Management Process 5 Steps
+Q088 B | Multidisciplinary Collaboration
+Q089 C | Multidisciplinary Collaboration
+Q090 B | Multidisciplinary Collaboration
+Q091 B | Care Manager = Population-Based Care
+Q092 C | Care Manager = Population-Based Care
+Q093 A | Care Manager = Population-Based Care
+Q094 C | เหตุผลที่ต้องมี Care Management
+Q095 B | เหตุผลที่ต้องมี Care Management
+Q096 A | เหตุผลที่ต้องมี Care Management
+Q097 D | เป้าหมายด้านผู้ป่วย
+Q098 C | เป้าหมายด้านผู้ป่วย
+Q099 A | เป้าหมายด้านผู้ป่วย
+Q100 D | เป้าหมายด้านหน่วยงาน
+Q101 B | เป้าหมายด้านหน่วยงาน
+Q102 A | เป้าหมายด้านหน่วยงาน
+Q103 A | Care Trinity Matrix
+Q104 B | Care Trinity Matrix
+Q105 B | Care Trinity Matrix
+Q106 D | 5 Pillars of Care Management
+Q107 B | 5 Pillars of Care Management
+Q108 C | 5 Pillars of Care Management
+Q109 C | Outcome Analysis
+Q110 B | Outcome Analysis
+Q111 D | Outcome Analysis
+Q112 A | CQI & Remeasurement
+Q113 D | CQI & Remeasurement
+Q114 D | CQI & Remeasurement
+Q115 C | Nurse-led Care Model
+Q116 A | Nurse-led Care Model
+Q117 D | Nurse-led Care Model
+Q118 B | 3 Pillars of Decentralized Care
+Q119 B | 3 Pillars of Decentralized Care
+Q120 D | 3 Pillars of Decentralized Care
+Q121 C | 360° Nurse-led Cycle
+Q122 D | 360° Nurse-led Cycle
+Q123 B | 360° Nurse-led Cycle
+Q124 B | Safety Boundary & Escalation
+Q125 C | Safety Boundary & Escalation
+Q126 C | Safety Boundary & Escalation
+Q127 C | Remote Follow-up
+Q128 A | Remote Follow-up
+Q129 A | Remote Follow-up
+Q130 B | Clinical + SDM + Behavioral Design
+Q131 B | Clinical + SDM + Behavioral Design
+Q132 B | Clinical + SDM + Behavioral Design
+Q133 A | Shared Decision Making
+Q134 A | Shared Decision Making
+Q135 B | Shared Decision Making
+Q136 B | SDM Roadmap 4 Steps
+Q137 A | SDM Roadmap 4 Steps
+Q138 D | SDM Roadmap 4 Steps
+Q139 C | Timing of Initiation
+Q140 D | Timing of Initiation
+Q141 A | Timing of Initiation
+Q142 C | Modality Selection
+Q143 D | Modality Selection
+Q144 D | Modality Selection
+Q145 D | Personal Dimensions
+Q146 A | Personal Dimensions
+Q147 D | Personal Dimensions
+Q148 B | Advance Care Planning
+Q149 C | Advance Care Planning
+Q150 A | Advance Care Planning
+Q151 C | ESRD Care Pathway
+Q152 C | ESRD Care Pathway
+Q153 D | ESRD Care Pathway
+Q154 A | Clinical Decision Tools
+Q155 C | Clinical Decision Tools
+Q156 D | Clinical Decision Tools
+Q157 B | Psychosocial Assessment
+Q158 C | Psychosocial Assessment
+Q159 C | Psychosocial Assessment
+Q160 C | Depression & Anxiety Screening
+Q161 D | Depression & Anxiety Screening
+Q162 A | Depression & Anxiety Screening
+Q163 A | Symptom Management
+Q164 B | Symptom Management
+Q165 C | Symptom Management
+Q166 B | RRT Nurse Competency
+Q167 A | RRT Nurse Competency
+Q168 A | RRT Nurse Competency
+Q169 D | Quality Development 4 Approaches
+Q170 D | Quality Development 4 Approaches
+Q171 C | Quality Development 4 Approaches
+Q172 D | Incident & Risk Learning
+Q173 C | Incident & Risk Learning
+Q174 C | Incident & Risk Learning
+Q175 A | Integrated Outcome Domains
+Q176 B | Integrated Outcome Domains
+Q177 B | Integrated Outcome Domains
+Q178 B | From Data to Action
+Q179 D | From Data to Action
+Q180 B | From Data to Action
